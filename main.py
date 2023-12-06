@@ -9,8 +9,7 @@ from f_valida_endereco import valida_endereco
 from f_verifica_number import verificar_number1
 from f_verifica_string import verificao_string
 
-print("SEJA BEM VINDO AO SISTEMA DO CESMAC \N")
-resposta =input("Ja tem ")
+
 
 print("Exemplo de uso:")
 print("1. Cadastrar Usuário")
